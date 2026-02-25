@@ -1,0 +1,9 @@
+[project]
+name = "ai-research-assistant-v1"
+version = "0.1.0"
+description = "Skeleton repo for an AI research assistant"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
