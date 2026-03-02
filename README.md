@@ -10,3 +10,5 @@ The primary objective of this project is to:
 - **Facilitate knowledge synthesis** : Identify patterns, trends, contradictions, and research gaps across multiple sources.
 - **Enhance productivity** : Reduce time spent on manual reading, note-taking, and cross-referencing.
 - **Maintain modular extensibility** : Provide a scalable architecture that supports future integration with vector databases, citation managers, APIs, and collaborative tools.
+
+Note: Parts of this documentation were drafted with the assistance of ChatGPT and verified by the author.
